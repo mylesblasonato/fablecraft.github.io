@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Welcome to the homepage of FableCraft. An interactive-fiction framework for Unity that utilizes Bolt in crafting the flow of your narrative. Please follow the below steps to get up to speed using this Unity3D tool:
+Welcome to the homepage of FableCraft. An interactive-fiction framework for Unity that utilizes Bolt to create story flow. Please follow the steps below to get up to speed using FableCraft:
 
 1. Feel free to download the Git project [here](https://github.com/mylesblasonato/FableCraft.git)
 2. Check out the Wiki [here](https://slimwiki.com/fablecraft)
