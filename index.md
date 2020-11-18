@@ -1,3 +1,5 @@
+<html>
+  <head> <title> FableCraft </title> </head/
 <img align="centre" width="522" height="370" src="https://img.itch.zone/aW1nLzQ1NzcwMjEucG5n/original/4JDbDj.png">
 
 ### FableCraft Story Framework  
@@ -11,3 +13,4 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
 **DOCUMENTATION & SUPPORT**  
 Having trouble using FableCraft? Check out our [Wiki](https://slimwiki.com/fablecraft) for a reference on all FableCraft nodes.  
 If you've found a bug or want to make a suggestion for improvements, please [report the issue or feature](https://www.jotform.com/203217781850051) and we’ll look into it
+</html>
