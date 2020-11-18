@@ -10,4 +10,4 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
 
 **DOCUMENTATION & SUPPORT**  
 Having trouble using FableCraft? Check out our [Wiki](https://slimwiki.com/fablecraft) for a reference on all FableCraft nodes.  
-If you've found a bug or want to make a suggestion for improvements, please [report the issue or feature](https://www.jotform.com/203217781850051) and we’ll look into it!
+If you've found a bug or want to make a suggestion for improvements, please [report the issue or feature](https://www.jotform.com/203217781850051) and we’ll look into it
