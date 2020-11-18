@@ -4,7 +4,7 @@ title: FableCraft Framework
 
 <img align="centre" width="520" height="370" src="https://img.itch.zone/aW1nLzQ1NzcwMjEucG5n/original/4JDbDj.png"><br>
 
-# FABLECRAFT STORY FRAMEWORK<br>
+## FABLECRAFT STORY FRAMEWORK<br>
 Welcome to the homepage of FableCraft. An interactive-fiction framework for Unity that utilizes Bolt to create story flow. Please follow the steps below to get up to speed using FableCraft:  
 
 **INSTALLATION STEPS**
