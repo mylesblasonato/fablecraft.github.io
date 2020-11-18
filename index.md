@@ -1,3 +1,7 @@
+---
+title: rCharts NYT Interactive Home Price
+---
+
 <img align="centre" width="522" height="370" src="https://img.itch.zone/aW1nLzQ1NzcwMjEucG5n/original/4JDbDj.png">
 
 ### FABLECRAFT STORY FRAMEWORK  
