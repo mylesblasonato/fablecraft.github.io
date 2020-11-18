@@ -1,3 +1,4 @@
+### FableCraft
 ![FableCraft Logo](https://img.itch.zone/aW1nLzQ1NzcwMjEucG5n/original/4JDbDj.png)
 :-:
 
@@ -8,7 +9,7 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
 2. Check out the Wiki [here](https://slimwiki.com/fablecraft)
 3. Any bugs can be logged [here](https://www.jotform.com/203217781850051)
 
-### DOCUMENTATION & SUPPORT
+**DOCUMENTATION & SUPPORT**
 
 Having trouble using FableCraft? Check out our [Wiki](https://slimwiki.com/fablecraft) for a reference on all FableCraft nodes.
 
