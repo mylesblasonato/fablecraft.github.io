@@ -1,4 +1,4 @@
-## FableCraft Narrative Unity3D Framework
+## FableCraft Framework
 
 Welcome to the homepage of FableCraft. An interactive-fiction framework for Unity that utilizes Bolt to create story flow. Please follow the steps below to get up to speed using FableCraft:
 
