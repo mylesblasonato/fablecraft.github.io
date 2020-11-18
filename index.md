@@ -6,6 +6,7 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
 1. Feel free to download the Git project [here]
 2. Check out the Wiki [here](https://slimwiki.com/fablecraft)
 3. Any bugs can be logged [here](https://www.jotform.com/203217781850051)
+```
 
 ### Support or Contact
 
