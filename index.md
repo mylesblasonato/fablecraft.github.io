@@ -14,4 +14,3 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
   
 # SUPPORT<br>
 If you have any other queries about FableCraft other than [documentation](https://slimwiki.com/fablecraft) or [reporting bugs](https://www.jotform.com/203217781850051) then feel free to email [contact@fablecraft.org](mailto:contact@fablecraft.org)
-dasdasdasdsadadad
