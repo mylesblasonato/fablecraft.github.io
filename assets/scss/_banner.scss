@@ -12,7 +12,7 @@
   @include border-radius(0px $border-radius $border-radius 0px);
 
   .banner-inner {
-    max-width:650px;
+    max-width:100%;
     width:100%;
     overflow:hidden;
     float:right;
