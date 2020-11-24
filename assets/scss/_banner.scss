@@ -1,7 +1,7 @@
 #banner {
   z-index: 100;
   left:0;
-  right:50%;
+  right:0%;
   height: 50px;
   margin-right:-382px;
   position: fixed;
@@ -12,7 +12,7 @@
   @include border-radius(0px $border-radius $border-radius 0px);
 
   .banner-inner {
-    max-width:4000px;
+    max-width:650px;
     width:100%;
     overflow:hidden;
     float:right;
