@@ -1,6 +1,5 @@
 ---
 title: FableCraft Framework
-layout: home
 ---
 
 <img align="centre" width="540" height="390" src="https://github.com/mylesblasonato/fablecraft.github.io/blob/main/4JDbDj.png?raw=true"><br>
