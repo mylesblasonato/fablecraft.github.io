@@ -9,7 +9,7 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
 
 # INSTRUCTIONS<br>
 1. Feel free to download the Git project [here](https://github.com/mylesblasonato/FableCraft.git)
-2. Alternatively, you can download the Unity Package [here](https://bit.ly/2J2Nf8D)
+2. Alternatively, you can download the Unity Package [here](https://bit.ly/37gpiml)
 3. Check out the Wiki [here](http://wiki.fablecraft.org/)
 4. Any bugs can be logged [here](https://www.jotform.com/203217781850051)
   
