@@ -7,6 +7,7 @@
         <title> FableCraft Framework </title>
     </head>
     <body>
+        {% include navbar.html %}
         <img align="centre" width="510" height="330" src="https://github.com/mylesblasonato/fablecraft.github.io/blob/main/4JDbDj.png?raw=true">
         <br>
         <h1> FABLECRAFT </h1>
