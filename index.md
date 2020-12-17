@@ -1,29 +1,22 @@
-<!doctype html>
-<html lang="en">
-    <head>       
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-        <title> FableCraft Framework </title>
-    </head>
-    <body>
-        {% include navbar.html %}
-        <img align="centre" width="510" height="330" src="https://github.com/mylesblasonato/fablecraft.github.io/blob/main/4JDbDj.png?raw=true">
-        <br>
-        <h1> FABLECRAFT </h1>
-        <p> 
-            Welcome to the homepage of FableCraft. An interactive-fiction framework for Unity that utilizes Bolt to create story flow. Please follow the instructions to get up to speed using FableCraft.
-        </p>
-        <h1> INSTRUCTIONS </h1>
-        <p> 
-            1. Feel free to download the Git project <a href="https://github.com/mylesblasonato/FableCraft.git">here</a><br>
-            2. Alternatively, you can download the Unity Package <a href="https://github.com/mylesblasonato/FableCraft/blob/main/FableCraft/Packages/FableCraft_2020.1.1.unitypackage?raw=true">here</a><br>
-            3. Check out the Wiki <a href="http://wiki.fablecraft.org/">here</a><br>
-            4. Any bugs can be logged <a href="https://www.jotform.com/203217781850051">here</a><br>
-        </p>
-        <h1> SUPPORT </h1>
-        <p> 
-            If you have any other queries about FableCraft other than <a href="http://wiki.fablecraft.org/">documentation</a> or <a href="https://www.jotform.com/203217781850051">reporting bugs</a> then feel free to email <a href="mailto:contact@fablecraft.org">contact@fablecraft.org</a>
-        </p>
-    </body>
-</html>
+---
+title: Fable Craft
+---
+
+<img align="centre" width="510" height="330" src="https://github.com/mylesblasonato/fablecraft.github.io/blob/main/4JDbDj.png?raw=true">
+
+# FABLECRAFT
+
+    Welcome to the homepage of FableCraft. An interactive-fiction framework for Unity that utilizes Bolt to create story flow. Please follow the instructions to get up to speed using FableCraft.
+
+# INSTRUCTIONS
+
+
+1. Feel free to download the Git project <a href="https://github.com/mylesblasonato/FableCraft.git">here</a><br>
+2. Alternatively, you can download the Unity Package <a href="https://github.com/mylesblasonato/FableCraft/blob/main/FableCraft/Packages/FableCraft_2020.1.1.unitypackage?raw=true">here</a><br>
+3. Check out the Wiki <a href="http://wiki.fablecraft.org/">here</a><br>
+4. Any bugs can be logged <a href="https://www.jotform.com/203217781850051">here</a><br>
+
+# SUPPORT
+
+If you have any other queries about FableCraft other than <a href="http://wiki.fablecraft.org/">documentation</a> or <a href="https://www.jotform.com/203217781850051">reporting bugs</a> then feel free to email <a href="mailto:contact@fablecraft.org">contact@fablecraft.org</a>
+
