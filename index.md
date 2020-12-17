@@ -10,11 +10,10 @@ Welcome to the homepage of FableCraft. An interactive-fiction framework for Unit
 
 # INSTRUCTIONS 
 1. Feel free to download the Git project [here](https://github.com/mylesblasonato/FableCraft.git)
-2. Alternatively, you can download the Unity Package <a href="https://github.com/mylesblasonato/FableCraft/blob/main/FableCraft/Packages/FableCraft_2020.1.1.unitypackage?raw=true">here</a><br>
-3. Check out the Wiki <a href="http://wiki.fablecraft.org/">here</a><br>
-4. Any bugs can be logged <a href="https://www.jotform.com/203217781850051">here</a><br>
+2. Alternatively, you can download the Unity Package [here](https://github.com/mylesblasonato/FableCraft/blob/main/FableCraft/Packages/FableCraft_2020.1.1.unitypackage?raw=true)
+3. Check out the Wiki [here](http://wiki.fablecraft.org/)
+4. Any bugs can be logged [here](https://www.jotform.com/203217781850051)
 <br><br>
 
 # SUPPORT
-If you have any other queries about FableCraft other than <a href="http://wiki.fablecraft.org/">documentation</a> or <a href="https://www.jotform.com/203217781850051">reporting bugs</a> then feel free to email <a href="mailto:contact@fablecraft.org">contact@fablecraft.org</a>
-
+If you have any other queries about FableCraft other than [documentation](http://wiki.fablecraft.org/) or [reporting bugs](https://www.jotform.com/203217781850051) then feel free to email [contact@fablecraft.org](mailto:contact@fablecraft.org)
